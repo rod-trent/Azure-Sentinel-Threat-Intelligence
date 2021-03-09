@@ -1,5 +1,5 @@
 ﻿###################################################################################
-### This script will add Solarwinds TI to Azure Sentinel by using the Graph API ###
+### This script will add Exchange Vulnerability TI to Azure Sentinel by using the Graph API ###
 ###################################################################################
 
 # Make sure an app registration is created with permissions on the Graph API: ThreatIndicators.ReadWrite.OwnedBy. Admin Concent is needed.
